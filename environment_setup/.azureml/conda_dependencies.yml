@@ -30,3 +30,4 @@ dependencies:
       - regex==2020.2.20
       - seaborn
       - joblib
+      - pyopenssl==20.0.0
