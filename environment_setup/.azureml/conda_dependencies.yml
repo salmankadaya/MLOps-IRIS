@@ -13,11 +13,11 @@ dependencies:
   - pip:
       - azureml-sdk==1.17.0
       #- azureml-sdk==1.17.0
-      - black>=18.6b4
+      - black==18.6b4
       - cached-property==1.5.1
-      - jsonlines>=1.2.0
+      - jsonlines==1.2.0
       - nteract-scrapbook>=0.2.1
-      - pydocumentdb>=2.3.3
+      - pydocumentdb==2.3.3
       - tqdm==4.32.2
       - pyemd==0.5.1
       - ipywebrtc==0.4.3
@@ -28,6 +28,6 @@ dependencies:
       - requests==2.22.0
       - requests-oauthlib==1.2.0
       - regex==2020.2.20
-      - seaborn
-      - joblib
+      - seaborn==0.1
+      - joblib==0.11
       - pyopenssl==20.0.0
